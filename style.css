@@ -26,6 +26,7 @@ body {
     text-align: center;
     margin: 15px;
     transition: transform 0.3s ease;
+    color: rgb(255, 0, 0);
 }
 
 .card img {
